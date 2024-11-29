@@ -10,8 +10,9 @@
   [Dataset-2](https://www.clarin.eu/resource-families/parallel-corpora)
 
 ## Contributors
+
+  [Debanjan Nanda](https://github.com/DebanjanNanda)
   [Ayan Maity](https://github.com/AyanMaity435601)
-  
   [Debayan Datta](https://github.com/debayan-datta)
   
-  [Debanjan Nanda](https://github.com/DebanjanNanda)
+  
